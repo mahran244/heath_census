@@ -2,7 +2,7 @@
     "conditions": [
       {
         "name": "Thyroid",
-        "imagesrc":"thyroid.jpg",
+        "imagesrc":thyroid.jpg.jfif",
         "symptoms": [
           "Fatigue",
           "Weight gain or loss",
